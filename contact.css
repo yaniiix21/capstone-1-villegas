@@ -1,0 +1,13 @@
+#gmap_canvas {
+	height: 60vh;
+	width: 100%;
+}
+body {
+/*	background-image: url(https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);*/
+}
+h3 {
+	text-decoration-color: white;
+}
+#banner {
+	background-image: url(https://images.pexels.com/photos/7504824/pexels-photo-7504824.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+}
