@@ -3,6 +3,7 @@
 	width: 100%;
 }
 body {
+	font-family: robotocondensed;
 	background-image: url(https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-repeat: no-repeat;
 	background-position: center;
@@ -13,6 +14,7 @@ h3 {
 	text-decoration-color: white;
 }
 #banner {
+	font-family: montaguslab;
 	background-image: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-position: center;
 }
@@ -43,3 +45,13 @@ h3 {
 .carousel-caption > #html5 {
 	color: #FA0C05;
 	} 
+
+#projectbody {
+	font-family: opensans;
+}
+#contactbody {
+	font-family: oswald;
+}
+#toolsbody{
+	font-family: opensans;
+}
