@@ -3,11 +3,43 @@
 	width: 100%;
 }
 body {
-/*	background-image: url(https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);*/
+	background-image: url(https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+
 }
 h3 {
 	text-decoration-color: white;
 }
 #banner {
-	background-image: url(https://images.pexels.com/photos/7504824/pexels-photo-7504824.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+	background-image: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-position: center;
 }
+
+.carousel-item > img {
+
+	height: 400px;
+	width: 80%;
+}
+
+#tools > img {
+		height: 300px;
+		width: 300px;
+	}
+}
+#project > img {
+	height: 100%;
+	width: 100%;
+}
+
+.carousel-caption > #js{
+	color: #FA0C05;
+}
+
+.carousel-caption > #css3 {
+	color: #FA0905;
+}
+.carousel-caption > #html5 {
+	color: #FA0C05;
+	} 
