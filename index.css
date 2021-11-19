@@ -2,6 +2,14 @@
 	height: 60vh;
 	width: 100%;
 }
+#projectbody {
+	font-family: robotocondensed;
+	background-image: url(https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
 body {
 	font-family: robotocondensed;
 	background-image: url(https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
